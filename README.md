@@ -9,5 +9,5 @@ Para el trabajo he intentado recrear un periódico digital. Al ser una página m
 
 ## Tecnologias
 ***
-A list of technologies used within the project:
+Una lista de las tecnologías usadas en este proyecto:
 * [Bootstrap](https://getbootstrap.com/): Versión 5.0 
